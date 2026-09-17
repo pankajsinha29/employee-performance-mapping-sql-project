@@ -1,0 +1,6 @@
+Employee Performance Mapping - Course-End Project 1
+Prepared by Heba Farouk, Business Analyst, Sparrow Softech Pvt. Ltd.
+
+This project demonstrates practical SQL application for HR analytics using the ScienceQtech case study. The solution covers database preparation, employee and department reporting, performance-rating segmentation, leadership identification, departmental rating benchmarking, role-wise salary analysis, employee experience ranking, SQL views, indexing and execution-plan analysis, geographic salary distribution, subqueries, training-review support and role standardization.
+
+Note: Actual output screenshots must be generated after importing the official Reference Materials CSV datasets. No employee/project records were fabricated in this package.

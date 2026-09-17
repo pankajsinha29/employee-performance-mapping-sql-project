@@ -1,0 +1,17 @@
+PACKAGE CONTENTS
+01_Report/
+  - Detailed PDF project report
+02_SQL_Code/
+  - Master SQL file
+  - Individual SQL files for every task
+03_Database_Excel/
+  - Excel database template with required table structures, data dictionary and SQL catalog
+04_Screenshots/
+  - Query/evidence screenshot templates
+  - Screenshot completion instructions
+05_Submission_Doc/
+  - Word solution document with all SQL tasks and evidence placeholders
+Submission_Remarks.txt
+
+IMPORTANT:
+The official CSV Reference Materials are not present, therefore actual query-output screenshots and populated employee records cannot be truthfully generated yet.
