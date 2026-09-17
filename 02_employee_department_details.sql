@@ -1,0 +1,2 @@
+SELECT EMP_ID, FIRST_NAME, LAST_NAME, GENDER, DEPT
+FROM emp_record_table;

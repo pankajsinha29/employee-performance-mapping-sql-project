@@ -1,0 +1,3 @@
+SELECT DISTINCT ROLE
+FROM emp_record_table
+ORDER BY ROLE;

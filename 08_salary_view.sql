@@ -1,0 +1,6 @@
+CREATE VIEW employee_salary_above_6000 AS
+SELECT EMP_ID, FIRST_NAME, LAST_NAME, COUNTRY, CONTINENT, ROLE, SALARY
+FROM emp_record_table
+WHERE SALARY > 6000;
+
+SELECT * FROM employee_salary_above_6000;
